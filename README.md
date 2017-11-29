@@ -1,2 +1,2 @@
 # pluged
-pluged core
+Pluged Core integration/staging tree http://pluged.io
