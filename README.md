@@ -1,0 +1,2 @@
+# pluged
+pluged core
